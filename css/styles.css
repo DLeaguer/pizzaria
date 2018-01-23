@@ -1,0 +1,272 @@
+body{
+	background-color: lightblue;
+}
+
+h1#name{
+	/*border: 2px solid black;*/
+	color: red;
+	text-align: center;
+	margin: 0px;
+	/*display: inline;*/
+	font-family: 'Italianno', cursive;
+	font-size: 100px;
+	background-size:     200px 200px;
+    background-repeat:   repeat;
+    background-position: center center;
+	background-image: url("../assets/277crop.jpg");
+	/*background-color: red;*/
+/*	padding-left: 20px;
+	padding-right: 30px;*/
+}
+
+h2#tagLine{
+	/*border: 2px solid black;*/
+	color: white;
+	text-align: center;
+	margin: 0px;
+	font-family: 'Italianno', cursive;
+	font-size: 50px;
+	background-size:     200px 200px;
+    background-repeat:   repeat;
+    background-position: center center;
+	background-image: url("../assets/277crop.jpg");
+}
+
+/*#darkMosaic{
+	border: 2px solid red;
+	background-size: 10px 2000px;
+}*/
+
+#pizzaMan{
+	border: 2px solid black;
+	height: 100px;
+	width: 100px;
+	display: inline;
+	margin: 0px;
+	margin-left: 12%;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+}
+#pizzaMan.center img {        
+}
+
+#MICmap{
+	height: 300px;
+	width: 300px;
+	margin: 0px;
+}
+
+#pizzaMan1{
+	border: 2px solid black;
+	height: 100px;
+	width: 100px;
+	display: inline;
+	margin: 0px;
+	/*margin-left: 15%;*/
+}
+#pizzaMan2{
+	border: 2px solid black;
+	height: 100px;
+	width: 100px;
+	display: inline;
+	margin: 0px;
+	/*margin-left: 15%;*/
+}
+#pizzaMan3{
+	border: 2px solid black;
+	height: 100px;
+	width: 100px;
+	display: inline;
+	margin: 0px;
+	/*margin-left: 15%;*/
+}
+#pizzaMan4{
+	border: 2px solid black;
+	height: 100px;
+	width: 100px;
+	display: inline;
+	margin: 0px;
+	/*margin-left: 15%;*/
+}
+#pizzaMan5{
+	border: 2px solid black;
+	height: 100px;
+	width: 100px;
+	display: inline;
+	margin: 0px;
+	/*margin-left: 15%;*/
+}
+#pizzaMan6{
+	border: 2px solid black;
+	height: 100px;
+	width: 100px;
+	display: inline;
+	margin: 0px;
+	/*margin-left: 15%;*/
+}
+
+
+.guide{
+	/*border: 2px solid black;*/
+	display: inline;
+	padding: 0px 20px 0px 0px;
+	margin: 0px;
+}
+
+#topMenu{
+	text-align: center;
+	margin: 0px;
+}
+
+
+.leftSide {
+   background: url("../assets/277crop.jpg");
+   background-position: center center;
+   background-size: 200px 200px;
+   width: 10%;
+   position: absolute;
+   left: 0px;
+   height: 400%;
+}
+.rightSide {
+	/*border: 3px solid red;*/
+   background-image: url("../assets/277crop.jpg");
+   background-size: 200px 200px;
+   background-position: center center; 
+   width: 10%;
+   position: absolute;
+   right: 0px;
+   height: 400%;   
+}
+
+.sectionTitle{
+	margin-bottom: 0px;
+	color: red;
+}
+
+#today{
+	margin-left: 15%;
+	margin-right: 15%;
+	text-align: center;
+	
+}
+
+#heartElectric{
+	height: 130px;
+	width: 150px;
+	display: inline;
+	margin: 0px;
+}
+
+#chainLoop{
+	height: 130px;
+	width: 150px;
+	display: inline;
+	margin: 0px;
+}
+
+#heartBlinds{
+	height: 130px;
+	width: 150px;
+	display: inline;
+	margin: 0px;
+}
+
+#regeneratingFunction{
+	height: 130px;
+	width: 150px;
+	display: inline;
+	margin: 0px;
+}
+
+#intersectionLoop{
+	height: 130px;
+	width: 150px;
+	display: inline;
+	margin: 0px;
+}
+
+#today:hover{
+	color: blue;
+	font-size: 20px;
+	text-decoration: blue dotted underline;
+	background-color: pink;
+	background-image: url("../assets/pizzaMan1");
+	box-shadow: 5px 10px purple;
+  border-radius: 20px;
+}
+
+/*#special{
+	color: blue;
+}*/
+
+#menu{
+	margin-left: 15%;
+	margin-right: 15%;
+	text-align: center;
+}
+
+.pizzaName{
+	color: purple;
+}
+
+.pizza:hover{
+	color: black;
+	font-size: 20px;
+	text-decoration: yellow dotted underline;
+	background-color: violet;
+	box-shadow: 5px 10px cornflowerblue;
+  border-radius: 20px;
+}
+
+
+
+#walkingPet{
+	height: 130px;
+	width: 150px;
+	display: inline;
+	margin: 0px;
+}
+
+#subscribe{
+	margin-left: 15%;
+	margin-right: 15%;
+	text-align: center;
+}
+
+#visit{
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+
+#credit{
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+#copyright{
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+/*.content{
+	text-align: center;
+}*/
+
+#addy{
+	display: inline;
+}
+
+#credit{
+	font-size: 12px;
+	margin-bottom: 0px;
+}
+
+#copyright{
+	font-size: 12px;
+	margin-bottom: 0px;
+	margin-top: 0px;	
+}
+
